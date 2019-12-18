@@ -155,26 +155,25 @@ body {
 	float: left;
 	margin-right: 15px;
 }
-.clearborth {
+.clearboth {
 	clear: both;
 }
-.floatrifght {
+.floatright {
 	float: right;
 }
 h1 {
 	font-size: 20px;
 	color: #000;
 	background-image: url(images/h1_bg.gif);
-	background-repeat: repeat-x;
 	background-position: bottom;
 	padding-bottom: 25px;
+	background-repeat: repeat-x;
 }
 h2 {
 	font-size: 16px;
 	color: #F00;
 	margin-top: 15px;
 	margin-bottom: 20px;
-	padding-top: 15px;
 	padding-left: 10px;
 	border-left-width: 5px;
 	border-left-style: solid;
