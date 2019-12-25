@@ -276,18 +276,4 @@ img {
 	width: 590px;
 	border-right: 8px solid #FFC17F;
 	text-align: center;
-}.photolist {
-	float: left;
-	background-image: url(images/photo_bg.gif);
-	background-repeat: no-repeat;
-	height: 135px;
-	width: 175px;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 20px;
-	margin-left: 15px;
-	padding-top: 30px;
-}
-.photolist p {
-	margin: 0px;
 }
